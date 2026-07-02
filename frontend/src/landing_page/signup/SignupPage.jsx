@@ -11,14 +11,12 @@ import Footer from "../Footer";
 function SignupPage() {
   return (
     <>
-      <Navbar />
       <BenefitsToOpenDematAccount />
       <DifferentAccountTypes />
       <FAQs />
       <InvestmentOptions />
       <Signup />
       <StepsToOpenDematAccount />
-      <Footer />
     </>
   );
 }
