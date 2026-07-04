@@ -18,9 +18,7 @@ function Stats() {
           <p className="mb-5 text-muted">
             No gimmicks, spam, "gamification", or annoying push notifications.
             High quality apps that you use at your pace, the way you like.{" "}
-            <a href="#" style={{ textDecoration: "none" }}>
-              Our philosophies.
-            </a>
+            <a href="#">Our philosophies.</a>
           </p>
 
           <h5 className="mb-2">The Zerodha universe</h5>

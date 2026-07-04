@@ -12,7 +12,7 @@ function KiteConnect() {
             Need more? Build your own trading and investing experience with Kite
             Connect, simple HTTP APIs to place orders, stream market data,
             manage your account, and more.{" "}
-            <a href="#" style={{ textDecoration: "none" }}>
+            <a href="#">
               Explore <i className="fa-solid fa-arrow-right"></i>
             </a>
           </p>

@@ -172,17 +172,17 @@ function Footer() {
         </p>
         <div className="row">
           <div className="col d-flex gap-3 px-5" style={{fontSize: "0.9rem"}}>
-            <a href="#" style={{textDecoration: "none", color: "#9B9B9B"}}>NSE</a>
-            <a href="#" style={{textDecoration: "none", color: "#9B9B9B"}}>BSE</a>
-            <a href="#" style={{textDecoration: "none", color: "#9B9B9B"}}>MCX</a>
-            <a href="#" style={{textDecoration: "none", color: "#9B9B9B"}}>MSEI</a>
-            <a href="#" style={{textDecoration: "none", color: "#9B9B9B"}}>Terms & conditions</a>
-            <a href="#" style={{textDecoration: "none", color: "#9B9B9B"}}>Policies & procedures</a>
-            <a href="#" style={{textDecoration: "none", color: "#9B9B9B"}}>Privacy policy</a>
-            <a href="#" style={{textDecoration: "none", color: "#9B9B9B"}}>Disclosure</a>
-            <a href="#" style={{textDecoration: "none", color: "#9B9B9B"}}>For investor's attention</a>
-            <a href="#" style={{textDecoration: "none", color: "#9B9B9B"}}>Investor charter</a>
-            <a href="#" style={{textDecoration: "none", color: "#9B9B9B"}}>Sitemap</a>
+            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>NSE</a>
+            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>BSE</a>
+            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>MCX</a>
+            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>MSEI</a>
+            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>Terms & conditions</a>
+            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>Policies & procedures</a>
+            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>Privacy policy</a>
+            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>Disclosure</a>
+            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>For investor's attention</a>
+            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>Investor charter</a>
+            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>Sitemap</a>
           </div>
         </div>
       </div>
