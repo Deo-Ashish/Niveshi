@@ -1,7 +1,8 @@
-import React from 'react'   
+import React from "react";
+import PricingTabs from "./PricingTabs";
 
 function Brokerage() {
-    return ( <h1>Brokerage</h1> );
+  return <PricingTabs />;
 }
 
 export default Brokerage;
