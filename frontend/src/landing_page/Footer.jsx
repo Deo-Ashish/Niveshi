@@ -12,7 +12,7 @@ function Footer() {
           <div className="row pe-5">
             <img
               src="media/images/logo.svg"
-              className="mb-3"
+              className="mb-3 logo"
               style={{ width: "60%" }}
             />
             <p style={{ fontSize: "0.8rem", lineHeight: "1.3rem" }}>

@@ -7,8 +7,8 @@ import Footer from "../Footer";
 function SupportPage() {
   return (
     <>
-      <SupportOptions />
       <SupportSearch />
+      <SupportOptions />
     </>
   );
 }

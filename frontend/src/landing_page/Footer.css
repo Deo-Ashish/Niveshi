@@ -22,3 +22,8 @@
 .footer-link:hover i {
   color: #387ed1;
 }
+
+ h5, .logo{
+  padding-bottom: 10px;
+}
+ 

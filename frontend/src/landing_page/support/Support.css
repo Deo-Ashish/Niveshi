@@ -1,0 +1,9 @@
+.form-control:focus {
+  border-color: #e0e0e0;
+  box-shadow: none;
+}
+
+.search-input::placeholder {
+  color: #9b9b9b;
+  opacity: 1;
+}
