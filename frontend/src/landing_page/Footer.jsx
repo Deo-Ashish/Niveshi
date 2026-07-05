@@ -20,78 +20,224 @@ function Footer() {
               All rights reserved.
             </p>
             <div className="d-flex col gap-3 fs-5">
-              <i class="fa-brands fa-x-twitter column"></i>
-              <i class="fa-brands fa-square-facebook c"></i>
-              <i class="fa-brands fa-instagram"></i>
-              <i class="fa-brands fa-linkedin-in"></i>
+              <a href="#" className="footer-link">
+                <i class="fa-brands fa-x-twitter column"></i>
+              </a>
+              <a href="#" className="footer-link">
+                <i class="fa-brands fa-square-facebook c"></i>
+              </a>
+              <a href="#" className="footer-link">
+                <i class="fa-brands fa-instagram"></i>
+              </a>
+              <a href="#" className="footer-link">
+                <i class="fa-brands fa-linkedin-in"></i>
+              </a>
             </div>
             <hr className="mt-4" />
           </div>
           <div className="row">
             <div className="col d-flex gap-3 fs-5">
-              <i class="fa-brands fa-youtube"></i>
-              <i class="fa-brands fa-whatsapp"></i>
-              <i class="fa-brands fa-telegram"></i>
+              <a href="#" className="footer-link">
+                <i class="fa-brands fa-youtube"></i>
+              </a>
+              <a href="#" className="footer-link">
+                <i class="fa-brands fa-whatsapp"></i>
+              </a>
+              <a href="#" className="footer-link">
+                <i class="fa-brands fa-telegram"></i>
+              </a>
             </div>
           </div>
           <div className="row mt-3 pe-4">
             <div className="col-6">
-              <img
-                src="media/images/googlePlayBadge.svg"
-                style={{ height: "2.1rem" }}
-              />
+              <a href="#">
+                <img
+                  src="media/images/googlePlayBadge.svg"
+                  style={{ height: "2.1rem" }}
+                />
+              </a>
             </div>
             <div className="col-6">
-              <img
-                src="media/images/appstoreBadge.svg"
-                style={{ height: "2.1rem" }}
-              />
+              <a href="#">
+                <img
+                  src="media/images/appstoreBadge.svg"
+                  style={{ height: "2.1rem" }}
+                />
+              </a>
             </div>
           </div>
         </div>
         <div className="col">
           <h5 className="mb-2">Account</h5>
-          <p>Open demat account</p>
-          <p>Minor demat account</p>
-          <p>NRI demat account</p>
-          <p>HUF demat account</p>
-          <p>Commodity</p>
-          <p>Dematerialisation</p>
-          <p>Fund transfer</p>
-          <p>MTF</p>
+          <p>
+            <a href="#" className="footer-link">
+              Open demat account
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Minor demat account
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              NRI demat account
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              HUF demat account
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Commodity
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Dematerialisation
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Fund transfer
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              MTF
+            </a>
+          </p>
         </div>
         <div className="col">
           <h5 className="mb-2">Support</h5>
-          <p>Contact us</p>
-          <p>Support portal</p>
-          <p>How to file a complaint?</p>
-          <p>Status of your complaints</p>
-          <p>Bulletin</p>
-          <p>Circular</p>
-          <p>Z-Connect blog</p>
-          <p>Downloads</p>
+          <p>
+            <a href="#" className="footer-link">
+              Contact us
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Support portal
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              How to file a complaint?
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Status of your complaints
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Bulletin
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Circular
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Z-Connect blog
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Downloads
+            </a>
+          </p>
         </div>
         <div className="col">
           <h5 className="mb-2">Company</h5>
-          <p>About</p>
-          <p>Philosophy</p>
-          <p>Press & media</p>
-          <p>Careers</p>
-          <p>Zerodha Cares (CSR)</p>
-          <p>Zerodha.tech</p>
-          <p>Open source</p>
-          <p>Referral program</p>
+          <p>
+            <a href="#" className="footer-link">
+              About
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Philosophy
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Press & media
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Careers
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Zerodha Cares (CSR)
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Zerodha.tech
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Open source
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Referral program
+            </a>
+          </p>
         </div>
         <div className="col">
           <h5 className="mb-2">Quick links</h5>
-          <p>Upcoming IPOs</p>
-          <p>Brokerage charges</p>
-          <p>Market holidays</p>
-          <p>Economic calendar</p>
-          <p>Calculators</p>
-          <p>Markets</p>
-          <p>Sectors</p>
-          <p>Gift Nifty</p>
+          <p>
+            <a href="#" className="footer-link">
+              Upcoming IPOs
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Brokerage charges
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Market holidays
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Economic calendar
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Calculators
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Markets
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Sectors
+            </a>
+          </p>
+          <p>
+            <a href="#" className="footer-link">
+              Gift Nifty
+            </a>
+          </p>
         </div>
       </div>
       <div
@@ -105,20 +251,24 @@ function Footer() {
           Registered Address: Zerodha Broking Ltd., #153/154, 4th Cross, Dollars
           Colony, Opp. Clarence Public School, J.P Nagar 4th Phase, Bengaluru -
           560078, Karnataka, India. For any complaints pertaining to securities
-          broking please write to complaints@zerodha.com, for DP related to
-          dp@zerodha.com. Please ensure you carefully read the Risk Disclosure
-          Document as prescribed by SEBI | ICF
+          broking please write to{" "}
+          <a href="mailto:complaints@zerodha.com">complaints@zerodha.com</a>,
+          for DP related to <a href="mailto:dp@zerodha.com">dp@zerodha.com</a>.
+          Please ensure you carefully read the{" "}
+          <a href="#">Risk Disclosure Document</a> as prescribed by SEBI |{" "}
+          <a href="#">ICF</a>
         </p>
         <p>
-          Procedure to file a complaint on SEBI SCORES: Register on SCORES
-          portal. Mandatory details for filing complaints on SCORES: Name, PAN,
-          Address, Mobile Number, E-mail ID. Benefits: Effective Communication,
-          Speedy redressal of the grievances
+          Procedure to file a complaint on SEBI SCORES:{" "}
+          <a href="#">Register on SCORES portal</a>. Mandatory details for
+          filing complaints on SCORES: Name, PAN, Address, Mobile Number, E-mail
+          ID. Benefits: Effective Communication, Speedy redressal of the
+          grievances
         </p>
         <p>
-          <p>
-            Smart Online Dispute Resolution | Grievances Redressal Mechanism
-          </p>
+          <a href="#">Smart Online Dispute Resolution</a> |{" "}
+          <a href="#">Grievances Redressal Mechanism</a>
+          <br />
           Investments in securities market are subject to market risks; read all
           the related documents carefully before investing.
         </p>
@@ -132,8 +282,8 @@ function Footer() {
           statement issued by NSDL/CDSL every month.
         </p>
         <p>
-          India's largest broker based on networth as per NSE. NSE broker
-          factsheet
+          India's largest broker based on networth as per NSE.{" "}
+          <a href="#">NSE broker factsheet</a>
         </p>
         <p>
           "Prevent unauthorised transactions in your account. Update your mobile
@@ -150,8 +300,8 @@ function Footer() {
           in case of allotment. In case of non allotment the funds will remain
           in your bank account. As a business we don't give stock tips, and have
           not authorized anyone to trade on behalf of others. If you find anyone
-          claiming to be part of Zerodha and offering such services, please
-          create a ticket here.
+          claiming to be part of Zerodha and offering such services, please{" "}
+          <a href="#">create a ticket here</a>.
         </p>
         <p>
           *Customers availing insurance advisory services offered by Ditto
@@ -171,18 +321,40 @@ function Footer() {
           are regulated by the Reserve Bank of India (RBI).
         </p>
         <div className="row">
-          <div className="col d-flex gap-3 px-5" style={{fontSize: "0.9rem"}}>
-            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>NSE</a>
-            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>BSE</a>
-            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>MCX</a>
-            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>MSEI</a>
-            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>Terms & conditions</a>
-            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>Policies & procedures</a>
-            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>Privacy policy</a>
-            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>Disclosure</a>
-            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>For investor's attention</a>
-            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>Investor charter</a>
-            <a href="#" style={{ation: "none", color: "#9B9B9B"}}>Sitemap</a>
+          <div className="col d-flex gap-3 px-5" style={{ fontSize: "0.9rem" }}>
+            <a href="#" className="footer-link">
+              NSE
+            </a>
+            <a href="#" className="footer-link">
+              BSE
+            </a>
+            <a href="#" className="footer-link">
+              MCX
+            </a>
+            <a href="#" className="footer-link">
+              MSEI
+            </a>
+            <a href="#" className="footer-link">
+              Terms & conditions
+            </a>
+            <a href="#" className="footer-link">
+              Policies & procedures
+            </a>
+            <a href="#" className="footer-link">
+              Privacy policy
+            </a>
+            <a href="#" className="footer-link">
+              Disclosure
+            </a>
+            <a href="#" className="footer-link">
+              For investor's attention
+            </a>
+            <a href="#" className="footer-link">
+              Investor charter
+            </a>
+            <a href="#" className="footer-link">
+              Sitemap
+            </a>
           </div>
         </div>
       </div>
