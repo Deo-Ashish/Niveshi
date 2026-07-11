@@ -1,3 +1,4 @@
+
 p {
   font-size: 1.1rem;
 }
@@ -5,3 +6,9 @@ p {
 a {
   text-decoration: none;
 }
+
+table {
+  border-collapse: collapse; /* merges double borders into one clean line */
+  width: 100%;
+}
+
