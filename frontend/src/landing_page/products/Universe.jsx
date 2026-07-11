@@ -3,7 +3,7 @@ import React from "react";
 function Universe() {
   const partners = [
     {
-      image: "media/images/zerodhaFundhouse.png",
+      image: "media/images/zerodhafundhouse.png",
       description:
         "Our asset management venture that is creating simple and transparent index funds to help you save for your goals.",
     },

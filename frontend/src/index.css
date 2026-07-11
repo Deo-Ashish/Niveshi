@@ -1,4 +1,7 @@
-
+* {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+}
 p {
   font-size: 1.1rem;
 }
@@ -11,4 +14,3 @@ table {
   border-collapse: collapse; /* merges double borders into one clean line */
   width: 100%;
 }
-
